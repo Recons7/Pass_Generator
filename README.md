@@ -15,7 +15,7 @@ Termux.
 
 2 => pkg install git
 
-3 => git clone 
+3 => git clone https://github.com/Recons7/Pass_Generator.git
 
 4 => cd Pass_Generator
 
