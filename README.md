@@ -6,8 +6,9 @@ This Tool Will Generate Unique And Strong Passwords For You and Will Save Your P
 
 To install the tool...
 
-=======
+
 Termux.
+
 =======
 
 1 => pkg install python && pkg install python2
@@ -23,5 +24,5 @@ Termux.
 6 => python3 password_generator.py
 
 
-=================== THANKS ===================
+======== THANKS =========
 
