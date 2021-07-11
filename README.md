@@ -4,7 +4,7 @@
 
 This Tool Will Generate Unique And Strong Passwords For You and Will Save Your Password From Getting Cracked By any Bad Guy.
 
-To install the tool...
+# To install the tool !
 
 
 Termux.
